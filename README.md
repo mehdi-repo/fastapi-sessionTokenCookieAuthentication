@@ -16,6 +16,10 @@
 > FastAPI StaticFiles (custom css,js,font,img)
 > 
 > FastAPI StaticFiles (custom css,js,font,img)
+> 
+> Admin Authorization and Authentication 
+> 
+> Admin panel Start Page
 
 ## Installation
 > pip install -r requirements.txt
