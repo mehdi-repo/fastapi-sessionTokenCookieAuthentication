@@ -14,8 +14,8 @@
 > FastAPI Template jinja2 
 > 
 > FastAPI StaticFiles (custom css,js,font,img)
-
-
+> 
+> FastAPI StaticFiles (custom css,js,font,img)
 
 ## Installation
 > pip install -r requirements.txt
